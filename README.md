@@ -1,7 +1,8 @@
-# @guara/theme-guara
+# slidev-theme-guara
 
+The Guará theme for **Slidev**.
 
-The default theme for [Slidev](https://github.com/rauffer/slidev-theme-guara).
+This theme is used on the slides used on trainings provided by [Guará](https://guara.io).
 
 ## Install
 
